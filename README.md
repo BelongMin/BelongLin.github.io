@@ -1,2 +1,2 @@
 # BelongLin.github.io
-BelongLin.github.io
+belongmin.github.io
